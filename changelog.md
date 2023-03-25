@@ -12,7 +12,7 @@
 ## Version 1.1.0.0-release `<Archive>`
 
 * Released
-  * 22 Mar 2022
+  * 22 Mar 2018
   * Kerbal Space Program 1.9.1
   * by ManuxKerb
 

@@ -104,8 +104,8 @@ CC BY-ND 4.0 by zer0Kerbal
 ## Version 0.6.0.1-release `<Archive>`
 
 * Released
-  * ?
-  * Kerbal Space Program
+  * 26 May 2015
+  * Kerbal Space Program 1.0.2
   * by ManuxKerb
 
 * 0.6a

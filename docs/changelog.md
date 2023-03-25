@@ -163,8 +163,8 @@ CC BY-ND 4.0 by zer0Kerbal
 ## Version 0.3.0.0-release `<Archive>`
 
 * Released
-  * ?
-  * Kerbal Space Program
+  * 13 May 2015
+  * Kerbal Space Program 1.0.0
   * by ManuxKerb
 
 * Unofficial support for New Horizons planets mod. (No further support will be given.)

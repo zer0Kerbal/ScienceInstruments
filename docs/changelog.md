@@ -177,8 +177,8 @@ CC BY-ND 4.0 by zer0Kerbal
 ## Version 0.2.0.0-release `<Archive>`
 
 * Released
-  * ?
-  * Kerbal Space Program
+  * 10 May 2015
+  * Kerbal Space Program 1.0.0
   * by ManuxKerb
 
 * Support for Outer planets mod. (Not every planet was added to every experiment to increase the fun, i mixed it:)

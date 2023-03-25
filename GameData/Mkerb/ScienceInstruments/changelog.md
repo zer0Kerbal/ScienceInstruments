@@ -121,8 +121,8 @@
 ## Version 0.5.0.0-release `<Archive>`
 
 * Released
-  * ?
-  * Kerbal Space Program
+  * 23 May 2015
+  * Kerbal Space Program 1.0.2
   * by ManuxKerb
 
 * New models

@@ -1,7 +1,7 @@
-<!-- readme.md v1.0.0.0
+<!-- readme.md v1.0.0.1
 Science Instruments (MSI)
 created: 21 Mar 2023
-updated: 
+updated: 23 Mar 2023
 
 TEMPLATE: readme.md v1.7.1.0
 created: 17 Jul 2017
@@ -84,6 +84,7 @@ Most recent releases only available via CurseForge/OverWolf Website/App
 
 * [Indicator lights][ilght]
 * [New Horizons][nhor] *Planet Pack*
+* [Outer Planets Mod (opm)][opm] *Planet Pack*
 
 * Either
   * [ModularManagement (MM)][MM]
@@ -230,6 +231,7 @@ Comment, click, like, share, up-vote, subscribe
 [MM]: https://github.com/net-lisias-ksp/ModularManagement "ModularManagement (MM)"
 [m-m]: https://forum.kerbalspaceprogram.com/index.php?/topic/50533-*/ "Module Manager"
 [nhor]: http://forum.kerbalspaceprogram.com/index.php?/topic/102776-*/ "New Horizons"
+[opm]: https://forum.kerbalspaceprogram.com/index.php?/topic/184789-*/ "Outer Planets Mod (opm)"
 [twk]: https://forum.kerbalspaceprogram.com/index.php?/topic/179030-*/ "TweakScale"
 
 <!-- financial support -->

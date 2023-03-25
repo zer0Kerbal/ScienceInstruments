@@ -1,6 +1,6 @@
-# MOD-NAME (ABBV)   
+# ScienceInstruments (MSI)
 
-## AUTH-NAME
+## ManuxKerb
 
 this archive has been modified with any or all of the following:
 * structure
@@ -13,8 +13,8 @@ this archive has been modified with any or all of the following:
 * contents added
   * Attributions.htm
   * changelog.md
-  * license.txt
+  * GPL-3.0.txt
   * ManualInstallation.htm
-  * MOD-NAME.version
+  * ScienceInstruments.version
   * this readme.txt
 * by zer0Kerbal

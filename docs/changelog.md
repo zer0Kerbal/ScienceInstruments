@@ -32,6 +32,9 @@ CC BY-ND 4.0 by zer0Kerbal
 * Nerfed the science to make it not so powerful
 * Some small tweaks
 
+* closes #22 - 1.1.0.0
+* closes #7 - Archival Releases
+
 ---
 
 ## Version 1.0.0.0b-release `<Archive>`
@@ -45,6 +48,9 @@ CC BY-ND 4.0 by zer0Kerbal
 * Science reward tweaks
 * Integration of Indicator lights (you need the Indicator Lights mod for this!)
 * Textures changed to fit better in Kerbal 1.4.1 universe.
+
+* closes #21 - 1.0.0.1
+* updates #7 - Archival Releases
 
 ---
 
@@ -60,6 +66,9 @@ CC BY-ND 4.0 by zer0Kerbal
 * Tags for searching
 * official 1.2.2 release
 
+* closes #20 - 0.9.0.0
+* updates #7 - Archival Releases
+
 ---
 
 ## Version 0.8.0.0-release `<Archive>`
@@ -73,6 +82,9 @@ CC BY-ND 4.0 by zer0Kerbal
 * Slight changes to Textures
 * Balancing for 1.1
 
+* closes #19 - 0.8.0.1
+* updates #7 - Archival Releases
+
 ---
 
 ## Version 0.7.0.0-release `<Archive>`
@@ -83,6 +95,9 @@ CC BY-ND 4.0 by zer0Kerbal
   * by ManuxKerb
 
 * Fixed Eva collection bug.
+
+* closes #18 - 0.7.0.0
+* updates #7 - Archival Releases
 
 ---
 
@@ -96,6 +111,9 @@ CC BY-ND 4.0 by zer0Kerbal
 * 0.6a
 * A typo made the 0.6 update useless, now fixed!
 
+* closes #17 - 0.6.0.1
+* updates #7 - Archival Releases
+
 ---
 
 ## Version 0.6.0.0-release `<Archive>`
@@ -106,6 +124,9 @@ CC BY-ND 4.0 by zer0Kerbal
   * by ManuxKerb
 
 * Fixed bug in the ABS as the transmission value was reported way to high.
+
+* closes #16 - 0.6.0.0
+* updates #7 - Archival Releases
 
 ---
 
@@ -119,6 +140,9 @@ CC BY-ND 4.0 by zer0Kerbal
 * New models
 * A lot of balancing
 
+* closes #15 - 0.5.0.0
+* updates #7 - Archival Releases
+
 ---
 
 ## Version 0.4.0.0-release `<Archive>`
@@ -131,6 +155,9 @@ CC BY-ND 4.0 by zer0Kerbal
 * Changed folder structure for future updates, make sure you delete the old Mkerb folder!
 * Price tweaks to better reflect the actual parts
 
+* closes #14 - 0.4.0.0
+* updates #7 - Archival Releases
+
 ---
 
 ## Version 0.3.0.0-release `<Archive>`
@@ -141,6 +168,9 @@ CC BY-ND 4.0 by zer0Kerbal
   * by ManuxKerb
 
 * Unofficial support for New Horizons planets mod. (No further support will be given.)
+
+* closes #13 - 0.3.0.0
+* updates #7 - Archival Releases
 
 ---
 
@@ -155,6 +185,9 @@ CC BY-ND 4.0 by zer0Kerbal
 * MeCripp converted textures to dds. Thanks
 * Some small rewrites
 
+* closes #12 - 0.2.0.0
+* updates #7 - Archival Releases
+
 ---
 
 ## Version 0.1.0.0-release `<Archive>`
@@ -165,6 +198,9 @@ CC BY-ND 4.0 by zer0Kerbal
   * by ManuxKerb
 
 * no changelog
+
+* closes #11 - 0.1.0.0
+* updates #7 - Archival Releases
 
 ---
 

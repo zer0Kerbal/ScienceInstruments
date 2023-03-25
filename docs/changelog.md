@@ -74,7 +74,7 @@ CC BY-ND 4.0 by zer0Kerbal
 ## Version 0.8.0.0-release `<Archive>`
 
 * Released
-  * 05 Apr 2016
+  * 16 Jul 2015
   * Kerbal Space Program 1.1
   * by ManuxKerb
 
@@ -90,7 +90,7 @@ CC BY-ND 4.0 by zer0Kerbal
 ## Version 0.7.0.0-release `<Archive>`
 
 * Released
-  * 16 July 2015
+  * 16 Jul 2015
   * Kerbal Space Program 1.0.4
   * by ManuxKerb
 

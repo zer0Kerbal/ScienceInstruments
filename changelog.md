@@ -9,6 +9,41 @@
 | curseforge | (https://www.curseforge.com/kerbal/ksp-mods/ScienceInstruments)   |
 | spacedock  | (https://spacedock.info/mod/475)                                  |
 
+## Version 1.1.99.0-adoption - `<Thank you ManuxKerb>` edition
+
+* Released
+  * 24 Mar 2023
+  * Kerbal Space Program 1.12.5
+  * by [zer0Kerbal](https://github.com/zer0Kerbal)
+
+### Adoption by [zer0Kerbal](https://github.com/zer0Kerbal)
+  * closes #10 - Create <ScienceInstruments.cfg>
+  * closes #9 - Part Asset Updates
+  * closes #8 - Create Localization directory and contents
+  * closes #42 - Part Tags
+  * closes #41 - Part Localization
+  * closes #6 - Create HeroLogo.png
+  * closes #5 - Create GitHub Pages
+  * closes #24 - English <en-us.cfg>
+  * updates #23 - Localization - Master
+  * updates #27 - Spanish (Español) <es-es.cfg>
+  * updates #26 - German (Deutsch) <de-de.cfg>
+  * updates #25 - Brazalian (Português Brasil) <pt-br.cfg>
+  * updates #32 - Simplified Chinese (简体中文) <zh-cn.cfg>
+  * updates #31 - Russian (Русский) <ru.cfg>
+### Changes 1.1.99.0
+
+
+### Status 1.1.99.0
+
+* Issues
+  * closes #1 - Science Instruments (MSI) 1.1.99.0-adoption `<Thank you ManuxKerb>` edition
+  * closes #2 - 1.1.99.0 Create Legal Mumbo Jumbo
+  * closes #3 - 1.1.99.0 Create Documentation
+  * closes #4 - 1.1.99.0 Create Social Media Presence
+
+---
+
 ## Version 1.1.0.0-release `<Archive>`
 
 * Released

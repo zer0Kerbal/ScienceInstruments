@@ -46,13 +46,13 @@
 
 * Released
   * 25 Apr 2016
-  * Kerbal Space Program 1.2.2
+  * Kerbal Space Program 1.1.0
   * by ManuxKerb
 
 * Added search tags for 1.1
 * Official 1.1 release
 * Tags for searching
-* official 1.2.2 release
+* ~~official 1.2.2 release~~
 
 * closes #20 - 0.9.0.0
 * updates #7 - Archival Releases
@@ -62,7 +62,7 @@
 ## Version 0.8.0.0-release `<Archive>`
 
 * Released
-  * 16 Jul 2015
+  * 05 Apr 2016
   * Kerbal Space Program 1.1
   * by ManuxKerb
 

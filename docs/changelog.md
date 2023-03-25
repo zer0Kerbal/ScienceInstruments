@@ -148,8 +148,8 @@ CC BY-ND 4.0 by zer0Kerbal
 ## Version 0.4.0.0-release `<Archive>`
 
 * Released
-  * ?
-  * Kerbal Space Program
+  * 19 May 2015
+  * Kerbal Space Program 1.0.2
   * by ManuxKerb
 
 * Changed folder structure for future updates, make sure you delete the old Mkerb folder!

@@ -37,6 +37,11 @@
 
 ### Changes 1.1.99.0
 
+msi-alv
+msi-snd
+msi-tim
+msi-rad
+
 * closes #10 - Create <ScienceInstruments.cfg>
 * closes #9 - Part Asset Updates
 * closes #6 - Create HeroLogo.png

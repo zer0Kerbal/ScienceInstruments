@@ -37,10 +37,12 @@
 
 ### Changes 1.1.99.0
 
-msi-alv
-msi-snd
-msi-tim
-msi-rad
+  * texture --> msi-alv
+  * texture --> msi-snd
+  * texture --> msi-tim
+  * texture --> msi-rad
+
+adjust size of rad exp to be ~1.25m
 
 * closes #10 - Create <ScienceInstruments.cfg>
 * closes #9 - Part Asset Updates

@@ -165,6 +165,7 @@ Comment, click, like, share, up-vote, subscribe
 [discu]: https://github.com/zer0Kerbal/ScienceInstruments/discussions "Discussions"
 [forum]: https://forum.kerbalspaceprogram.com/index.php?/topic/215791-*/ "Science Instruments (MSI))"
 [issue]: https://github.com/zer0Kerbal/ScienceInstruments/issues "Issues"
+[markt]: https://zer0kerbal.github.io/ScienceInstruments/Marketing "Marketing Slicks"
 [notic]: https://zer0kerbal.github.io/ScienceInstruments/Notices "Notices"
 [pages]: https://zer0kerbal.github.io/ScienceInstruments "GitHub Pages"
 [parts]: https://zer0kerbal.github.io/ScienceInstruments/PartsCatalog "Parts Catalog"

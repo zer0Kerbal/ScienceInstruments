@@ -22,9 +22,12 @@ based upon work by LisiasT -->
 
 ## Trademarks <i class="fa-solid fa-trademark fa-beat-fade" style="--fa-beat-fade-opacity: 0.1; --fa-beat-fade-scale: 1.25;color: black" ></i>
 
-* "Mkerb Oxidizer Tank" is trademark of ManuxKerb
-* "Oxidizer Tank" is trademark of ManuxKerb
-* "Mkerb" is trademark of ManuxKerb
+* "Mkerb Science Instruments" is trademark of ManuxKerb
+* "Alive Beep Signal (A.B.S.)" is trademark of ManuxKerb
+* "Liquid Time Experiment (L.T.E.)" is trademark of ManuxKerb
+* "Kerbal Kolider Lerk (K.K.L.)" is trademark of ManuxKerb
+* "Kerbal Sound Experiment (K.S.I)" is trademark of ManuxKerb
+* "MSI" is trademark of zer0Kerbal
 * Kerbal Simple Co is a trademark of zer0Kerbal
 * KerbSimCo is a trademark of zer0Kerbal
 * KerbSimpleCo is a trademark of zer0Kerbal

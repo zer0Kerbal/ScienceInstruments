@@ -1,5 +1,5 @@
-# Changelog  
-  
+# Changelog
+
 | modName    | Science Instruments (MSI)                                         |
 | ---------- | ----------------------------------------------------------------- |
 | license    | GPL-3.0                                                           |
@@ -15,6 +15,16 @@
   * 24 Mar 2023
   * Kerbal Space Program 1.12.5
   * by [zer0Kerbal](https://github.com/zer0Kerbal)
+
+### Summary 1.1.99.0
+
+* update textures
+* update parts
+* loads of behind the scenes changes
+* Can search `msi` in editors
+* ghostparts.cfg temporarily added for renamed parts
+* Dependencies:
+  * Mkerb Inc
 
 ### Adoption by [zer0Kerbal](https://github.com/zer0Kerbal)
 
@@ -35,30 +45,95 @@
   * 1.1.0.0-release
 * closes #7 - Archival Releases
 
-### Changes 1.1.99.0
+### Localization 1.1.99.0
 
-  * texture --> msi-alv
-  * texture --> msi-snd
-  * texture --> msi-tim
-  * texture --> msi-rad
-
-adjust size of rad exp to be ~1.25m
-
+* Update
+  * Localization/
+    * <en-us.cfg> v1.1.99.0
+    * <pt-br.cfg> v1.1.99.0
+    * <de-de.cfg> v1.1.99.0
+    * <es-es.cfg> v1.1.99.0
+    * <ru.cfg> v1.1.99.0
+    * <zh-cn.cfg> v1.1.99.0
+* Add
+  * [readme.md] v2.1.2.0
+  * [quickstart.md] v1.0.1.1
+* Create
+  * [ScienceInstruments.cfg] v1.0.0.0
+    * adds localized tags to parts
+* closes #8 - Create Localization directory and contents
 * closes #10 - Create <ScienceInstruments.cfg>
+* closes #24 - English <en-us.cfg>
+* closes #41 - Part Localization
+* updates #23 - Localization - Master
+* updates #25 - Brazalian (Português Brasil) <pt-br.cfg>
+* updates #26 - German (Deutsch) <de-de.cfg>
+* updates #27 - Spanish (Español) <es-es.cfg>
+* updates #31 - Russian (Русский) <ru.cfg>
+* updates #32 - Simplified Chinese (简体中文) <zh-cn.cfg>
+
+### Parts 1.1.99.0
+
+* Add
+  * <ghostParts.cfg> v1.0.0.0
+* Rename
+  * parts to match naming scheme
+  * files to match part names
+* Fix
+* Lint
+* Reformat
+* Errors
+* Patches
+  * Updated
+    * filenames
+    * Module Manger patch headers
+    * file headers
+    * general linting
+* closes #42 - Part Tags
+
+### Assets 1.1.99.0
+
+* create Assets/ folder
+* convert
+  * from mesh to MODEL
+  * textures from .mbm to .dds
+* rename
+  * Rename model files to unique names
+  * textures to unique names
+    * texture --> msi-alv
+    * texture --> msi-snd
+    * texture --> msi-tim
+    * texture --> msi-rads
+* update
+  * model pointers (.png et al to .dds)
+  * model texture pointers to new names
+* relocate assets to Assets/
+* eliminateduplicates textures/models
+* relocate part.cfg to Parts/
+* textures
 * closes #9 - Part Asset Updates
-* closes #6 - Create HeroLogo.png
+
+### Documentation 1.1.99.0
+
+* Add
+  * GitHub Pages
+    * [`_config.yml`]
+    * [Attribution.md] v1.0.7.1
+    * [ManualInstallation.md] v1.1.8.0
+    * [404.md] v1.0.3.2
+    * [LegalMumboJumbo.md] v1.0.5.1
+    * [Localizations.md] v1.1.7.0
+    * [Marketing.md] v1.0.1.0
+    * [Notices.md] v1.0.1.0
+    * [Part-Catalog.md] v1.1.4.1
+    * [Why.md] v1.1.0.0
+  * docs/thumbs
 * closes #5 - Create GitHub Pages
 
-* closes #8 - Create Localization directory and contents
-* closes #42 - Part Tags
-* closes #41 - Part Localization
-* closes #24 - English <en-us.cfg>
-* updates #23 - Localization - Master
-* updates #27 - Spanish (Español) <es-es.cfg>
-* updates #26 - German (Deutsch) <de-de.cfg>
-* updates #25 - Brazalian (Português Brasil) <pt-br.cfg>
-* updates #32 - Simplified Chinese (简体中文) <zh-cn.cfg>
-* updates #31 - Russian (Русский) <ru.cfg>
+### Cover image 1.1.99.0
+
+* Create HeroLogo/Cover image
+* closes #6 - Create HeroLogo.png
 
 ### Status 1.1.99.0
 

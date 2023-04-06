@@ -73,7 +73,7 @@ Most recent releases only available via CurseForge/OverWolf Website/App
 
 ### Dependencies
 
-* [Science Instruments (MSI)][MKERB]
+* [MKerb Inc (MSI)][MKERB]
 * [Kerbal Space Program][KSP:url] [![Kerbal Space Program][SHD:ksp]][KSP:url]
 
 ### Recommends
@@ -225,7 +225,7 @@ Comment, click, like, share, up-vote, subscribe
 [KOAT]: https://forum.kerbalspaceprogram.com/index.php?/topic/212070-*/ "Kerbals of All Trades (KOAT)"
 [HYPE]: https://forum.kerbalspaceprogram.com/index.php?/topic/212069-*/ "Simple Hyperdrive! (HYPE)"
 
-[MKERB]: https://forum.kerbalspaceprogram.com/index.php?/topic/215790-*/ "Science Instruments (MSI)"
+[MKERB]: https://forum.kerbalspaceprogram.com/index.php?/topic/215790-*/ "Mkerb Inc (MSI)"
 [MOT]: https://forum.kerbalspaceprogram.com/index.php?/topic/215723-*/ "Mkerb Oxidizer Tank (MOT)"
 
 [ilght]: http://forum.kerbalspaceprogram.com/index.php?/topic/137806-*/ "Indicator lights"

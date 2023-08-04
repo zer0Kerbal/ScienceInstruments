@@ -87,4 +87,4 @@ To install, place the `GameData` folder inside your Kerbal Space Program folder:
 
 [MKERB]: https://forum.kerbalspaceprogram.com/index.php?/topic/215790-*/ "Science Instruments (MSI)"
 
-<!-- this file CC BY-ND 4.0 by zer0Kerbal -->
+<!-- THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->

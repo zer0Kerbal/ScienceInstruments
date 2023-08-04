@@ -26,6 +26,7 @@
 * Localize
   * ![Russian (Русский)](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/RU.png) Russian (Русский)
   * Спасибо [evanisrael](https://github.com/evanisrael)
+* Marketing and PartsCatalog pages now fleshed out
 
 ### Changes 1.2.0.0
 
@@ -49,7 +50,11 @@
 
 #### Documentation 1.2.0.0
 
+* Add
+  * [Marketing.md] v1.0.0.0
 * Update
+  * [404.md] v1.0.1.0
+  * [PartsCatalog.md] v1.0.1.0
   * [Attributions.md] v1.0.1.0
   * [Localizations.md] v1.0.1.0
   * [readme.md] v1.2.0.0

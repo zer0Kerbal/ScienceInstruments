@@ -21,6 +21,61 @@ CC BY-ND 4.0 by zer0Kerbal
 | curseforge | (https://www.curseforge.com/kerbal/ksp-mods/ScienceInstruments)   |
 | spacedock  | (https://spacedock.info/mod/475)                                  |
 
+## Version 1.2.0.0-release - `<Спасибо evanisrael>` edition
+
+* Released
+  * 02 Aug 2023
+  * Kerbal Space Program 1.12.5
+  * by [zer0Kerbal](https://github.com/zer0Kerbal)
+
+* 📌 Pinned
+  * Dependencies:
+    * [Mkerb Inc (MKERB)](https://curseforge.com/kerbal/ksp-mods/MkerbInc)
+  * search `msi` in editors
+
+### Change Summary 1.2.0.0
+
+* Localize
+  * ![Russian (Русский)](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/RU.png) Russian (Русский)
+  * Спасибо [evanisrael](https://github.com/evanisrael)
+
+### Changes 1.2.0.0
+
+#### Localization 1.2.0.0
+
+* Add
+  * Russian (Русский)
+    * [ru.cfg] v1.0.0.0
+    * Спасибо [evanisrael](https://github.com/evanisrael)
+  * Translation guides
+    * [readme-ru.md] v1.0.1.0
+    * [quickstart-ru.md] v1.0.0.0
+    * Спасибо [evanisrael](https://github.com/evanisrael)
+* Update
+  * [en-us.cfg] v1.0.2.0
+  * [ru.cfg] v1.0.1.0
+  * add header, give credit
+* closes #31 - Russian (Русский) <ru.cfg>
+* updates #24 - English <en-us.cfg>
+* updates #23 - Localization - Master
+
+#### Documentation 1.2.0.0
+
+* Update
+  * [Attributions.md] v1.0.1.0
+  * [Localizations.md] v1.0.1.0
+  * [readme.md] v1.2.0.0
+  * [ReleaseLayout.md] v1.2.0.0
+* updates #5 - Create GitHub Pages
+
+### Status
+
+* Issues
+  * closes #58 - Science Instruments (MSI) 1.2.0.0-release `<Спасибо evanisrael>` edition
+  * closes #59 - 1.1.99.1 Additional Tasks
+
+---
+
 ## Version 1.1.99.0-adoption - `<Thank you ManuxKerb>` edition
 
 * Released

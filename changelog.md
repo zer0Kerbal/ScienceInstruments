@@ -54,9 +54,11 @@
   * [Marketing.md] v1.0.0.0
 * Update
   * [404.md] v1.0.1.0
-  * [PartsCatalog.md] v1.0.1.0
   * [Attributions.md] v1.0.1.0
+  * [LegalMumboJumbo.md] v1.0.1.0
   * [Localizations.md] v1.0.1.0
+  * [PartsCatalog.md] v1.0.1.0
+  * [Why.md] v1.0.1.0
   * [readme.md] v1.2.0.0
   * [ReleaseLayout.md] v1.2.0.0
 * updates #5 - Create GitHub Pages

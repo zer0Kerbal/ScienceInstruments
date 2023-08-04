@@ -7,7 +7,7 @@ TEMPLATE: readme.md v1.7.1.0
 created: 17 Jul 2017
 updated: 15 Mar 2023
 
-this file: CC BY-ND 4.0 by zer0Kerbal -->
+THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
 
 [![Science Instruments (MSI)][SHD:mod]][forum] [![KSP version][SHD:ksp]][KSP:url]  [![License][LIC:shd]][LIC:url]  
 [![Curseforge][CURSFG:shd]][CURSFG:url] [![GitHub][GITHUB:shd]][GITHUB:url] [![SpaceDock][SPCDCK:shd]][SPCDCK:url] [![CKAN][ckan:shd]][ckan:url]  
@@ -111,7 +111,7 @@ Most recent releases only available via CurseForge/OverWolf Website/App
 * [SimpleConstruction! (SCON)][SCON]
 * [SimpleLogistics! (SLOG)][SLOG]
 * [SimpleNotes! (NOTE)][NOTES]
-* [Stock Inline Lights (SIL)][SIL]
+* [Stack Inline Lights (SIL)][SIL]
 * [TweakScale (twk)][twk]
 
 ### Tags
@@ -219,7 +219,7 @@ Comment, click, like, share, up-vote, subscribe
 [PIZZA]: https://forum.kerbalspaceprogram.com/index.php?/topic/209577-*/ "Papa Kerballini's Pizza (PIZZA)"
 [PM]: https://forum.kerbalspaceprogram.com/index.php?/topic/207261-*/ "Precise Maneuver (PM)"
 [SCON]: https://forum.kerbalspaceprogram.com/index.php?/topic/191424-*/ "SimpleConstruction! (SCON)"
-[SIL]: https://forum.kerbalspaceprogram.com/index.php?/topic/193050-*/ "Stock Inline Lights (SIL)"
+[SIL]: https://forum.kerbalspaceprogram.com/index.php?/topic/193050-*/ "Stack Inline Lights (SIL)"
 [SLOG]: https://forum.kerbalspaceprogram.com/index.php?/topic/191045-*/ "SimpleLogistics! (SLOG)"
 [SOL]: https://forum.kerbalspaceprogram.com/index.php?/topic/192489-*/ "Solar Science (SOL)"
 [KOAT]: https://forum.kerbalspaceprogram.com/index.php?/topic/212070-*/ "Kerbals of All Trades (KOAT)"
@@ -237,9 +237,9 @@ Comment, click, like, share, up-vote, subscribe
 
 <!-- financial support -->
 [PAYPAL:img]: https://img.shields.io/badge/Buy%20me%20some%20-LFO-BADA55?style=for-the-badge&logo=paypal&labelColor=FFDD00/ "PayPal"
-[PAYPAL:url]: https://www.paypal.com/donate?hosted_button_id=DC22YHMEJREKL/ "PayPal"
+[PAYPAL:url]: https://www.paypal.com/donate/?hosted_button_id=DC22YHMEJREKL "PayPal"
 [PATREON:img]: https://img.shields.io/badge/Patreon%20-Patreonize-FF424D?style=for-the-badge&logo=patreon/ "Patreon"
-[PATREON:url]: https://www.patreon.com/bePatron?u=23390503/ "Patreon"
+[PATREON:url]: https://www.patreon.com/zer0Kerbal/membership "Patreon"
 
 <!-- Localization -->
 [lreadme]: https://github.com/zer0Kerbal/zer0Kerbal/blob/master/Localization/readme.md "Localization Readme"

@@ -47,7 +47,7 @@ __These localizations for KSP and its DLC's are available through Steam:__
 * ![Türk (Turkish)](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/TR.png) Turkish (Türk) <tr-tr.cfg>
 * ![国语 (Taiwanese)](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/TW.png) Taiwanese (国语) <zh-tw.cfg>
 
-THIS FILE: CC BY-ND 4.0 by zer0Kerbal
-  used with express permission from zer0Kerbal
+THIS FILE: CC BY-ND 4.0 by [zer0Kerbal](https://github.com/zer0Kerbal)
+  used with express permission from [zer0Kerbal](https://github.com/zer0Kerbal)
 
 [mod]: https://www.curseforge.com/kerbal/ksp-mods/ScienceInstruments "Science Instruments (MSI)"
